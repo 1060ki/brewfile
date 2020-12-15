@@ -2,6 +2,7 @@
 brew "hub"
 brew "git"
 brew "anyenv"
+brew "mysql@5.7"
 cask "iterm2"
 
 # Editor
@@ -10,6 +11,8 @@ cask "visual-studio-code"
 cask "rubymine"
 
 # Utility
+brew "ghq"
+brew "peco"
 cask "google-japanese-ime"
 cask "karabiner-elements"
 
